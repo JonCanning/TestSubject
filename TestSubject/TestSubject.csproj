@@ -35,9 +35,6 @@
     <Reference Include="NSubstitute">
       <HintPath>..\packages\NSubstitute.1.6.0.0\lib\NET40\NSubstitute.dll</HintPath>
     </Reference>
-    <Reference Include="nunit.framework">
-      <HintPath>..\packages\NUnit.2.6.2\lib\nunit.framework.dll</HintPath>
-    </Reference>
     <Reference Include="StructureMap">
       <HintPath>..\packages\structuremap.2.6.4.1\lib\net40\StructureMap.dll</HintPath>
     </Reference>
